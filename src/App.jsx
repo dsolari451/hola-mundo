@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <TwitterFollowCard userName={'MiduDev'} name={'ElmiduDev'} isFollowing></TwitterFollowCard>
-      <TwitterFollowCard userName={'MiduDev'} name={'ElmiduDev'}  isFollowing={false}></TwitterFollowCard>
+      <TwitterFollowCard userName={'Gbder'} name={'Gbder'}  isFollowing={false}></TwitterFollowCard>
     </>
   )
 }
